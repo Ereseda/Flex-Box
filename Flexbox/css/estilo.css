@@ -14,8 +14,8 @@ body{
     margin: 10px;
     flex: 1 100%; 
 }
-.branco{
-    color: orange;
+.red{
+    color: red;
 }
 .header{
     margin: 0;
@@ -36,7 +36,15 @@ body{
     text-align: left;
     background: 	#C0C0C0;
     height: 300px;
-    font-size: 25px;
+    font-size: 20px;
+}
+.linkedecoration{
+    text-decoration: none;
+    color: orange;
+}
+
+ a:hover{
+    background: white;
 }
 
 .aside1, .aside2{
